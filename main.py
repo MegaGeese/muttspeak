@@ -411,7 +411,7 @@ def check_word(word):
     print(f"Checking word: '{word}'")
     if word.lower() in bad_words_list: # Ensure word is lowercase for comparison
         print(f"Mutt activity detected for '{word}', administering treatment")
-        pishock_helper.operate( operation, intensity, duration, username, apikey, code, name="muttspeak" )
+        pishock_helper.operate(operation, intensity, duration, username, apikey, code)
 
 def resource_path(relative_path):
     try:
