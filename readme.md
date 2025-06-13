@@ -105,8 +105,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Speach to text 
+- [ ] Speach to text
+    - [ ] Input Device Selection
+    - [ ] Volume Control
 - [ ] Bad Words URL
+    - [ ] Allow a csv file to be passed to the dictionary by url
 
 See the [open issues](https://github.com/MegaGeese/muttspeak/issues) for a full list of proposed features (and known issues).
 
