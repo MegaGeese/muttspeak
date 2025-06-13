@@ -174,7 +174,7 @@ def show_about():
         set_icon(about_root)
 
         ttk.Label(about_root, text="mutts arent supposed to use bad words", font=("Arial", 10, "bold")).pack(pady=10)
-        ttk.Label(about_root, text="Version 0.1.0").pack(pady=5)
+        ttk.Label(about_root, text="Version 0.2.0").pack(pady=5)
         ttk.Label(about_root, text="Made with 💜 for my lil mutt").pack(pady=5)
         ttk.Label(about_root, text="© 2025 August").pack(pady=5)
 
