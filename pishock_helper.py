@@ -1,8 +1,5 @@
 import requests
 
-
-url = 'https://ps.pishock.com/PiShock/'
-
 def operate(operation, intensity, duration, username, apikey, code):
     """
     Operate a device with the specified parameters.
