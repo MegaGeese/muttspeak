@@ -1,0 +1,16 @@
+{
+    "BAD_WORDS": [
+        "bitch"
+    ],
+    "COMBINATION": [
+        "ctrl_l",
+        "f1"
+    ],
+    "SHOCK_COLLAR_ENABLED": false,
+    "OPERATIONS": 0,
+    "DURATION": 1,
+    "INTENSITY": 1,
+    "API_KEY": "YOUR API KEY HERE",
+    "API_USERNAME": "YOUR USERNAME HERE",
+    "API_CODE": "YOUR CODE HERE"
+}
