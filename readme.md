@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MegaGeese/muttspeak">
-    <img src="icon.png" alt="Logo" width="80" height="80">
+    <img src="icon.PNG" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">muttspeak</h3>
@@ -46,7 +46,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![alt text](images/image-4.png)](https://github.com/MegaGeese/muttspeak)
+<div align="center">
+  <a href="https://github.com/MegaGeese/muttspeak">
+    <img src="images/image-4.png" alt="Logo">
+  </a>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
