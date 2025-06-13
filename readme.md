@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MegaGeese/muttspeak">
-    <img src="icon.png" alt="Logo" width="80" height="80">
+    <img src="icon.PNG" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">muttspeak</h3>
